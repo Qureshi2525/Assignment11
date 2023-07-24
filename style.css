@@ -1,0 +1,72 @@
+body {
+    font-size: 80%;
+    font-family: "Courier New", Courier, monospace;
+    letter-spacing: 0.15em;
+    background-color: #efefef;
+  }
+  
+  div {
+    max-width: 940px;
+    min-width: 720px;
+    margin: 10px auto 10px auto;
+    padding: 20px;
+    border: 4px double #000;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  h2 {
+    width: 150px;
+    margin: 10px auto 25px auto;
+    text-align: center;
+    font-family: Baskerville Old Face;
+    line-height: .0px;
+    font-weight: lighter;
+     }
+     h3 {
+        width: 150px;
+        margin: 10px auto 25px auto;
+        text-align: center;
+        font-family: Lucida Calligraphy;
+        line-height: .0px;
+       font-size: 20px;
+      }
+      h4 {
+        width: 150px;
+        margin: 10px auto 25px auto;
+        text-align: center;
+        font-family: Lucida Calligraphy;
+        line-height: 10px;
+        font-size: 20px;
+       font-weight: bolder;
+      }
+  
+  ul {
+    width: 570px;
+    padding: 15px;
+    margin: 0px auto 0px auto;
+    border-top: 2px solid #000;
+    border-bottom: 1px solid #000;
+    text-align: center;
+  }
+  li {
+    display: inline;
+    margin: 0px -2px;
+  }
+  
+  p {
+    text-align: center;
+    width: 600px;
+    margin: 20px auto 20px auto;
+    font-weight: normal;
+  }
+  a {
+    color: #000000;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 6px 18px 5px 18px;
+  }
+  a:hover,
+a.on {
+  color: #cc3333;
+  background-color: #ffffff;
+}
